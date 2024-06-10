@@ -1,0 +1,6 @@
+﻿  ITEM_LIST.cpp
+  lab4.cpp
+  Создание кода...
+lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __cdecl Item::AddContent(class Item *)" (?AddContent@Item@@UEAAXPEAV1@@Z) в функции "public: virtual void __cdecl ComplexItem::AddContent(class Item *)" (?AddContent@ComplexItem@@UEAAXPEAVItem@@@Z).
+lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __cdecl Item::DelContent(int)" (?DelContent@Item@@UEAAXH@Z) в функции "public: virtual void __cdecl ComplexItem::DelContent(int)" (?DelContent@ComplexItem@@UEAAXH@Z).
+C:\C++\lab4_1\lab4\x64\Debug\lab4.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
